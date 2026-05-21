@@ -1,4 +1,1 @@
-{
-	"$schema": "https://raw.githubusercontent.com/atampy25/quickentity-editor-next/main/src/lib/project-schema.json",
-	"customPaths": []
-}
+{"customPaths":["[assembly:/_pro/scenes/bricks/menumapsetup_whittle_them_dwn.brick].pc_entitytype","[assembly:/_pro/scenes/bricks/menumapsetup_whittle_them_down.brick].pc_entitytype","[assembly:/_pro/scenes/bricks/menumapsetup_whittle_them_down.brick].pc_entityblueprint","(planning_contract) paris whittle"]}

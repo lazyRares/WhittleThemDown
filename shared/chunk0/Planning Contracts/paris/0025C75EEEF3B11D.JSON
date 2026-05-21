@@ -1,0 +1,143 @@
+{
+    "scene": "assembly:/_pro/scenes/missions/whittle_them_down/mission_paris/scene_paris_whittle.entity",
+    "actors": [],
+    "entrances": [
+        {
+            "id": "74062d4a-3386-44b8-83e0-1d0348e5976f",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "0.981628, 0.190805, 0, -0.190805, 0.981628, 0, 0, 0, 1, -198.368, 87.07409, -1.537863"
+        },
+        {
+            "id": "67aec874-287f-4c82-9e01-3dbd7683faac",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "0.981628, 0.190805, 0, -0.190805, 0.981628, 0, 0, 0, 1, -294.892, 78.9921, 12.46247"
+        },
+        {
+            "id": "3bdb62b5-15ef-4eb6-94b1-7f2e0cdf1d31",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "-0.358369, -0.93358, 0, 0.93358, -0.358369, 0, 0, 0, 1, -130.7712, -8.708846, 15.45041"
+        },
+        {
+            "id": "aa4cdd0b-8fcf-4160-a049-c15a19c82af1",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "0.743144, -0.669132, 0, 0.669132, 0.743144, 0, 0, 0, 1, -243.2604, -4.840157, -5.539"
+        },
+        {
+            "id": "c6765d3e-4031-4778-a5c5-a6d875131ea4",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, -184.0791, 24.06765, -5.539207"
+        },
+        {
+            "id": "943b8f1f-10c4-4dbf-a67e-25ed343290f5",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, -249.6576, 18.75312, 15.46196"
+        },
+        {
+            "id": "be610298-cbe8-47ce-9e90-951d2aae6f39",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "-0.3826834, 0.9238796, 0, -0.9238796, -0.3826834, 0, 0, 0, 1, -224.185, 14.384, 7.461"
+        },
+        {
+            "id": "04834714-406b-444e-b0d8-2f1054c1f8b5",
+            "isDefaultSpawn": false,
+            "isPreferredSpawn": false,
+            "WorldTransform": "-0.944775, 0.32772, 0, -0.32772, -0.944775, 0, 0, 0, 1, -219.672, -13.69435, -0.527816"
+        },
+        {
+            "id": "d76ae2ee-05ea-4f2b-a9c7-62efa6422628",
+            "isDefaultSpawn": true,
+            "isPreferredSpawn": false,
+            "WorldTransform": "-0.087155, -0.996195, 0, 0.996195, -0.087155, 0, 0, 0, 1, -79.59217, 14.72982, -1.531217"
+        }
+    ],
+    "Exits": [
+        {
+            "id": "a09d755b-6df9-4878-a4c5-4718a6c1c6d9",
+            "WorldTransform": "0.866026, 0.499999, 0, -0.499999, 0.866026, 0, 0, 0, 1, -243.6092, 25.28021, -5.539196",
+            "RequireKey": false
+        },
+        {
+            "id": "d4aad1c4-13e7-42e7-9d57-bffb765a9f77",
+            "WorldTransform": "-1, 0, 0, 0, -1, 0, 0, 0, 1, -303.962, 20.15232, -1.411061",
+            "RequireKey": false
+        },
+        {
+            "id": "33032ec4-e2c9-4e98-837a-0347fdc3faf7",
+            "WorldTransform": "0, -1, 0, 1, 0, 0, 0, 0, 1, -76.98021, -38.75352, -1.478448",
+            "RequireKey": false
+        },
+        {
+            "id": "c0d748b5-25df-4492-b497-50e7c3d7e8f5",
+            "WorldTransform": "0, -1, 0, 1, 0, 0, 0, 0, 1, -76.98021, 67.05087, -1.478448",
+            "RequireKey": false
+        },
+        {
+            "id": "757442c5-ce14-412e-aa56-d40e9bfad07e",
+            "WorldTransform": "0, -1, 0, 1, 0, 0, 0, 0, 1, -76.98021, 14.91449, -1.478448",
+            "RequireKey": false
+        },
+        {
+            "id": "6c287a1b-445d-47eb-aec3-14f961d8b939",
+            "WorldTransform": "0, 1, 0, -1, 0, 0, 0, 0, 1, -353.468, 5.980793, -7.695453",
+            "RequireKey": true
+        }
+    ],
+    "AgencyPickups": [
+        {
+            "id": "e1f3a43e-2c27-438f-a733-47f39208ca34",
+            "WorldTransform": "0, 0, -1, 1, 0, 0, 0, -1, 0, -229.432, 24.72, 16.17225",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "52c22399-fe49-48d4-bc5c-bf1726616444",
+            "WorldTransform": "-1, 0, 0, 0, -1, 0, 0, 0, 1, -256.034, 24.26699, 8.006",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "244e6667-4d99-40d1-a766-6324d133b669",
+            "WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, -209.3903, 7.136007, -4.702094",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "6120437a-d943-431f-90c1-a7ccca663a07",
+            "WorldTransform": "-0.984747, 0.16773, -0.046256, -0.058386, -0.068124, 0.995967, 0.163903, 0.983476, 0.076878, -275.5247, 59.63926, -1.319893",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "37495d13-a49d-404b-a4ba-6f8c39f20feb",
+            "WorldTransform": "-0.785068, 0.61941, 1E-06, -0.213803, -0.270985, 0.938539, 0.58134, 0.736817, 0.345173, -174.3914, 13.79522, -0.404579",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": true
+        },
+        {
+            "id": "ca81b636-d61d-454c-83de-d998214f5470",
+            "WorldTransform": "-0.021619, -0.999641, -0.015848, -0.043655, -0.014893, 0.998936, -0.998813, 0.022288, -0.043317, -144.1651, 38.82844, 15.6663",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "25ff09ba-134e-4292-901b-a43efc73c2ae",
+            "WorldTransform": "0.984455, -0.175634, 0, -0.031495, -0.176531, -0.983791, 0.172787, 0.968498, -0.179319, -200.3697, -45.84561, -0.380175",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        }
+    ]
+}

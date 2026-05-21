@@ -1,0 +1,34 @@
+{
+	"Data": {
+		"EnableSaving": true,
+		"Objectives": [],
+		"GameDifficulties": [
+			{ "Difficulty": "easy", "Bricks": [] },
+			{ "Difficulty": "normal", "Bricks": [] },
+			{ "Difficulty": "hard", "Bricks": [] }
+		],
+		"Bricks": [],
+		"DevOnlyBricks": [],
+		"Entrances": ["74062d4a-3386-44b8-83e0-1d0348e5976f", "67aec874-287f-4c82-9e01-3dbd7683faac", "3bdb62b5-15ef-4eb6-94b1-7f2e0cdf1d31", "aa4cdd0b-8fcf-4160-a049-c15a19c82af1", "c6765d3e-4031-4778-a5c5-a6d875131ea4", "943b8f1f-10c4-4dbf-a67e-25ed343290f5", "be610298-cbe8-47ce-9e90-951d2aae6f39", "04834714-406b-444e-b0d8-2f1054c1f8b5", "d76ae2ee-05ea-4f2b-a9c7-62efa6422628"],
+		"GameChangers": [],
+		"GameChangerReferences": []
+	},
+	"Metadata": {
+		"Id": "062d97ea-4598-45bf-b69a-c73137a55262",
+		"IsPublished": true,
+		"Title": "Whittle Them Down: Paris",
+		"Description": "Eliminate every target on the map, one at a time, in a random order. Each target is revealed only after the previous one has been eliminated.",
+		"CodeName_Hint": "Paris",
+		"ScenePath": "assembly:/_pro/scenes/missions/whittle_them_down/mission_paris/scene_paris_whittle.entity",
+		"TileImage": "images/whittle_them_down/paris/tile.jpg",
+		"Location": "LOCATION_PARIS",
+		"LastUpdate": "2025-05-02T19:44:00.000Z",
+		"CreationTimestamp": "2025-05-02T19:44:00.000Z",
+		"CreatorUserId": "b765b61b-7554-47a8-9ee9-7e121ca212d9",
+		"Type": "mission",
+		"Release": "3.0.0",
+		"Entitlements": ["H1_LEGACY_EXPANSION"]
+	},
+	"UserData": {},
+	"SMF": {}
+}
