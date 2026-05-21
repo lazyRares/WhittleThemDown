@@ -1,29 +1,9 @@
 {
-  "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-  "id": "TheMafia.WhittleThemDown",
-  "name": "Whittle Them Down",
-  "description": "A custom Hitman gamemode similar to a kill everyone challenge.",
-  "authors": ["The Mafia"],
-  "frameworkVersion": "2.33.8",
-  "version": "0.1.0",
-  "blobsFolders": ["blobs"],
-  "contentFolders": ["shared"],
-  "dependencies": [
-  ],
-  "packagedefinition": [
-    {
-      "type": "entity",
-      "partition": "paris",
-      "path": "[assembly:/_pro/scenes/missions/whittle_them_down/mission_paris/scene_paris_whittle.entity].entitytemplate"
-    }
-  ],
-  "localisation": {
-    "english": {
-      "UI_WHITTLE_THEM_DOWN": "Whittle Them Down",
-      "UI_STORY": "Story",
-      "UI_WHITTLE_DESC": "Eliminate everyone present at the location, but do it one-by-one as targets are assigned. A new target is only assigned after killing the previous.",
-      "UI_WHITTLE_TITLE_PARIS": "Whittle Them Down - Paris",
-    }
-  },
-  "updateCheck": "https://github.com/lazyRares/WhittleThemDown/releases/latest/download/updates.json"
+	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+	"version": "0.1.0",
+	"id": "YourPreferredAlias.AnIDForTheMod",
+	"name": "Test Mod",
+	"description": "A truly amazing mod",
+	"authors": ["Your Preferred Alias"],
+	"frameworkVersion": "2.25.1"
 }
